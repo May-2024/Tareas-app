@@ -1,0 +1,25 @@
+.ToDoSearch {
+    background-color: rgb(169, 52, 93);
+    border-radius: 2px;
+    border: 2px solid rgb(216, 220, 200);
+    margin: 0 24px;
+    height :64px;
+    width: calc (100% -62px);
+    font-size: 24px;
+    text-align: center;
+    font-family: ' Dancing Script';
+    font-weight: 400;
+    color:rgb(216, 220, 200);
+    box-shadow: 0px 5px 50px rgb(169, 52, 93);
+
+}
+
+.ToDoSearch::placeholder {
+    color:rgb(216, 220, 200);
+    font-family: 'Dancing Script';
+    font-weight: 400;
+}
+
+.ToDoSearch:focus {
+    outline-color:rgb(169, 52, 93)
+}

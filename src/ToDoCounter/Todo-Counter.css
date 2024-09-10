@@ -1,0 +1,14 @@
+h1 {
+  font-size: 56px;
+  text-align: center;
+  margin: 0;
+  padding: 48px;
+  color: rgb(216, 220, 200);
+
+}
+
+.ToDoCounter span {
+  font-weight: bold;
+  color:#e9ac33;
+  font-family: 'Dancing Script', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

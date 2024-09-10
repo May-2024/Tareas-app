@@ -1,0 +1,12 @@
+.ModalBackround {
+    background-color: #192d3677;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color: bisque;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
